@@ -1,0 +1,222 @@
+[
+  {
+    "lon": 50.512,
+    "lat": 26.031,
+    "zoom": 15,
+    "location": "Sakhir",
+    "name": "Bahrain International Circuit",
+    "fecha_construccion": "2002",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahrain_International_Circuit--Grand_Prix_Layout.svg/200px-Bahrain_International_Circuit--Grand_Prix_Layout.svg.png"
+  },
+  {
+    "lon": 39.104,
+    "lat": 21.632,
+    "zoom": 14,
+    "location": "Jeddah",
+    "name": "Jeddah Corniche Circuit",
+    "fecha_construccion": "2021",
+    "ganador2023": "Sergio Pérez",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jeddah_Street_Circuit_2021.svg/200px-Jeddah_Street_Circuit_2021.svg.png"
+  },
+  {
+    "lon": 144.97,
+    "lat": -37.846,
+    "zoom": 14,
+    "location": "Melbourne",
+    "name": "Albert Park Circuit",
+    "fecha_construccion": "1953",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Albert_Park_Circuit_2021.svg/200px-Albert_Park_Circuit_2021.svg.png"
+  },
+  {
+    "lon": 49.842,
+    "lat": 40.369,
+    "zoom": 14,
+    "location": "Baku",
+    "name": "Baku City Circuit",
+    "fecha_construccion": "2016",
+    "ganador2023": "Sergio Perez",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Baku_Formula_One_circuit_map.svg/200px-Baku_Formula_One_circuit_map.svg.png"
+  },
+  {
+    "lon": -80.239,
+    "lat": 25.958,
+    "zoom": 15,
+    "location": "Miami",
+    "name": "Miami International Autodrome",
+    "fecha_construccion": "2022",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hard_Rock_Stadium_Circuit_2022.svg/200px-Hard_Rock_Stadium_Circuit_2022.svg.png"
+  },
+  {
+    "lon": 7.429,
+    "lat": 43.737,
+    "zoom": 15,
+    "location": "Monte Carlo",
+    "name": "Circuit de Monaco",
+    "fecha_construccion": "1929",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Monte_Carlo_Formula_1_track_map.svg/200px-Monte_Carlo_Formula_1_track_map.svg.png"
+  },
+  {
+    "lon": 2.259,
+    "lat": 41.569,
+    "zoom": 14,
+    "location": "Barcelona",
+    "name": "Circuit de Barcelona-Catalunya",
+    "fecha_construccion": "1991",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Circuit_de_Catalunya_moto_2021.svg/200px-Circuit_de_Catalunya_moto_2021.svg.png"
+  },
+  {
+    "lon": -73.525,
+    "lat": 45.506,
+    "zoom": 14,
+    "location": "Montreal",
+    "name": "Circuit Gilles-Villeneuve",
+    "fecha_construccion": "1978",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Circuit_Gilles_Villeneuve.svg/200px-Circuit_Gilles_Villeneuve.svg.png"
+  },
+  {
+    "lon": 14.761,
+    "lat": 47.223,
+    "zoom": 15,
+    "location": "Spielberg",
+    "name": "Red Bull Ring",
+    "fecha_construccion": "1969",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Circuit_Red_Bull_Ring.svg/200px-Circuit_Red_Bull_Ring.svg.png"
+  },
+  {
+    "lon": -1.017,
+    "lat": 52.072,
+    "zoom": 14,
+    "location": "Silverstone",
+    "name": "Silverstone Circuit",
+    "fecha_construccion": "1948",
+    "ganador2023": "Max Verstappen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Circuit_Silverstone_2011.svg/200px-Circuit_Silverstone_2011.svg.png"
+  },
+  {
+    "lon": 19.25,
+    "lat": 47.583,
+    "zoom": 14,
+    "location": "Budapest",
+    "name": "Hungaroring",
+    "fecha_construccion": "1986",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hungaroring.svg/142px-Hungaroring.svg.png"
+  },
+  {
+    "lon": 5.971,
+    "lat": 50.436,
+    "zoom": 13,
+    "location": "Spa Francorchamps",
+    "name": "Circuit de Spa-Francorchamps",
+    "fecha_construccion": "1925",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spa-Francorchamps_of_Belgium.svg/200px-Spa-Francorchamps_of_Belgium.svg.png"
+  },
+  {
+    "lon": 4.541,
+    "lat": 52.389,
+    "zoom": 15,
+    "location": "Zandvoort",
+    "name": "Circuit Zandvoort",
+    "fecha_construccion": "1948",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zandvoort_Circuit.png/164px-Zandvoort_Circuit.png"
+  },
+  {
+    "lon": 9.29,
+    "lat": 45.621,
+    "zoom": 13,
+    "location": "Monza",
+    "name": "Autodromo Nazionale Monza",
+    "fecha_construccion": "1922",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Monza_track_map.svg/200px-Monza_track_map.svg.png"
+  },
+  {
+    "lon": 103.859,
+    "lat": 1.291,
+    "zoom": 15,
+    "location": "Singapore",
+    "name": "Marina Bay Street Circuit",
+    "fecha_construccion": "2008",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Marina_Bay_circuit_2023.svg/200px-Marina_Bay_circuit_2023.svg.png"
+  },
+  {
+    "lon": 136.534,
+    "lat": 34.844,
+    "zoom": 15,
+    "location": "Suzuka",
+    "name": "Suzuka International Racing Course",
+    "fecha_construccion": "1962",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Suzuka_circuit_map--2005.svg/194px-Suzuka_circuit_map--2005.svg.png"
+  },
+  {
+    "lon": 51.454,
+    "lat": 25.49,
+    "zoom": 15,
+    "location": "Qatar",
+    "name": "Losail International Circuit",
+    "fecha_construccion": "2004",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lusail_International_Circuit_2023.svg/200px-Lusail_International_Circuit_2023.svg.png"
+  },
+  {
+    "lon": -97.633,
+    "lat": 30.135,
+    "zoom": 15,
+    "location": "Austin",
+    "name": "Circuit of the Americas",
+    "fecha_construccion": "2012",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Austin_circuit.svg/150px-Austin_circuit.svg.png"
+  },
+  {
+    "lon": -99.091,
+    "lat": 19.402,
+    "zoom": 15,
+    "location": "Mexico City",
+    "name": "Autódromo Hermanos Rodríguez",
+    "fecha_construccion": "1962",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg/190px-Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg.png"
+  },
+  {
+    "lon": -46.698,
+    "lat": -23.702,
+    "zoom": 15,
+    "location": "Sao Paulo",
+    "name": "Autódromo José Carlos Pace - Interlagos",
+    "fecha_construccion": "1940",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg/200px-Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg.png"
+  },
+  {
+    "lon": -115.168,
+    "lat": 36.116,
+    "zoom": 14,
+    "location": "Las Vegas",
+    "name": "Las Vegas Street Circuit",
+    "fecha_construccion": "2023",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Las_Vegas_Strip_Circuit_2023.png/200px-Las_Vegas_Strip_Circuit_2023.png"
+  },
+  {
+    "lon": 54.601,
+    "lat": 24.471,
+    "zoom": 14,
+    "location": "Abu Dhabi",
+    "name": "Yas Marina Circuit",
+    "fecha_construccion": "2009",
+    "ganador2023": "Max Verstappen",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Yas_Marina_Circuit.png/200px-Yas_Marina_Circuit.png"
+  }
+]

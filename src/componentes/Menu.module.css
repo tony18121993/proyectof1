@@ -1,0 +1,33 @@
+.cabecera {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: whitesmoke;
+}
+
+.imagen {
+  width: 200px;
+  height: 100px;
+}
+
+.navegador {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style: none;
+  align-items: center;
+}
+li {
+  margin-left: 20px;
+}
+ul{
+  padding-top: 3%;
+}
+.enlaces{
+  text-decoration: none;
+  color: blue;
+  font-size: 24px;
+  
+}

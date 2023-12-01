@@ -1,0 +1,11 @@
+.contenedor__detalle{
+    margin-top: 2%;
+    margin-right: 7%;
+    padding: 1%;
+    width: 50%;
+    height: 350px;
+    background-color: #ffffff;
+    border: 1px solid #ff6666;
+    border-radius: 20%;
+    color: black;
+}

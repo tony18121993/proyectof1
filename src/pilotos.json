@@ -1,0 +1,182 @@
+ [
+    {
+      "id": 1,
+      "nombre": "Lewis Hamilton",
+      "equipo": "Mercedes",
+      "nacionalidad": "Británico",
+      "numero": 44,
+      "campeonatos": 7,
+      "image": "https://cdn-7.motorsport.com/images/mgl/0mb95oa2/s200/lewis-hamilton-mercedes-1.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Max Verstappen",
+      "equipo": "Red Bull Racing",
+      "nacionalidad": "Neerlandés",
+      "numero": 33,
+      "campeonatos": 3,
+      "image": "https://cdn-9.motorsport.com/images/mgl/Y99d13AY/s200/max-verstappen-red-bull-racing-1.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Valtteri Bottas",
+      "equipo": "Alfa Romeo Racing",
+      "nacionalidad": "Finlandés",
+      "numero": 77,
+      "campeonatos": 0,
+      "image": "https://cdn-1.motorsport.com/images/mgl/Ypxd1gXY/s200/f1-australian-gp-2018-valtteri-bottas-mercedes-amg-f1.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Charles Leclerc",
+      "equipo": "Ferrari",
+      "nacionalidad": "Monegasco",
+      "numero": 16,
+      "campeonatos": 0,
+      "image": "https://cdn-1.motorsport.com/images/mgl/Yv854VL0/s200/charles-leclerc-ferrari-1.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Lando Norris",
+      "equipo": "McLaren",
+      "nacionalidad": "Británico",
+      "numero": 4,
+      "campeonatos": 0,
+      "image": "https://cdn-4.motorsport.com/images/mgl/2GzrEd10/s200/lando-norris-mclaren-1.webp"
+    },
+    {
+      "id": 6,
+      "nombre": "Carlos Sainz Jr.",
+      "equipo": "Ferrari",
+      "nacionalidad": "Español",
+      "numero": 55,
+      "campeonatos": 0,
+      "image": "https://cdn-7.motorsport.com/images/mgl/YKEZkBr0/s200/carlos-sainz-ferrari-1.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Daniel Ricciardo",
+      "equipo": "AlphaTauri",
+      "nacionalidad": "Australiano",
+      "numero": 3,
+      "campeonatos": 0,
+      "image": "https://cdn-8.motorsport.com/images/mgl/YP3MGd32/s200/daniel-ricciardo-alphatauri-1.webp"
+    },
+    {
+      "id": 8,
+      "nombre": "Fernando Alonso",
+      "equipo": "Aston Martin",
+      "nacionalidad": "Español",
+      "numero": 14,
+      "campeonatos": 2,
+      "image": "https://cdn-6.motorsport.com/images/mgl/6AEomeD6/s200/fernando-alonso-aston-martin-r-1.webp"
+    },
+    {
+      "id": 9,
+      "nombre": "Sergio Pérez",
+      "equipo": "Red Bull Racing",
+      "nacionalidad": "Mexicano",
+      "numero": 11,
+      "campeonatos": 0,
+      "image": "https://cdn-7.motorsport.com/images/mgl/0a9neZP0/s200/sergio-perez-red-bull-racing-1.webp"
+    },
+    {
+      "id": 10,
+      "nombre": "Esteban Ocon",
+      "equipo": "Alpine",
+      "nacionalidad": "Francés",
+      "numero": 31,
+      "campeonatos": 0,
+      "image": "https://cdn-4.motorsport.com/images/mgl/2y31zO96/s200/esteban-ocon-alpine-1.webp"
+    },
+    {
+      "id": 11,
+      "nombre": "Pierre Gasly",
+      "equipo": "Alpine",
+      "nacionalidad": "Francés",
+      "numero": 10,
+      "campeonatos": 0,
+      "image": "https://cdn-1.motorsport.com/images/mgl/27vmVpo0/s200/pierre-gasly-alpine-1.webp"
+    },
+    {
+      "id": 12,
+      "nombre": "George Russell",
+      "equipo": "Mercedes",
+      "nacionalidad": "Británico",
+      "numero": 63,
+      "campeonatos": 0,
+      "image": "https://cdn-6.motorsport.com/images/mgl/Yv85r310/s200/george-russell-mercedes-1.webp"
+    },
+    {
+      "id": 13,
+      "nombre": "Guanyu Zhou",
+      "equipo": "Alfa Romeo Racing",
+      "nacionalidad": "China",
+      "numero": 24,
+      "campeonatos": 0,
+      "image": "https://cdn-8.motorsport.com/images/mgl/YP3jk9A2/s200/zhou-guanyu-alfa-romeo-1.webp"
+    },
+    {
+      "id": 14,
+      "nombre": "Lance Stroll",
+      "equipo": "Aston Martin",
+      "nacionalidad": "Canada",
+      "numero": 18,
+      "campeonatos": 0,
+      "image": "https://cdn-4.motorsport.com/images/mgl/0oOE4Zl0/s200/lance-stroll-aston-martin-raci-1.webp"
+    },
+    {
+      "id": 15,
+      "nombre": "Kevin Magnussen",
+      "equipo": "Haas",
+      "nacionalidad": "Dinamarca",
+      "numero": 47,
+      "campeonatos": 0,
+      "image": "https://cdn-8.motorsport.com/images/mgl/0ZRMkxo0/s200/kevin-magnussen-haas-1.webp"
+    },
+    {
+      "id": 16,
+      "nombre": "Nico Hulkenberg",
+      "equipo": "Haas",
+      "nacionalidad": "Alemania",
+      "numero": 9,
+      "campeonatos": 0,
+      "image": "https://cdn-7.motorsport.com/images/mgl/6D1QwKx0/s200/nico-hulkenberg-haas-1.webp"
+    },
+    {
+      "id": 17,
+      "nombre": "Yuki Tsunoda",
+      "equipo": "AlphaTauri",
+      "nacionalidad": "Japon",
+      "numero": 22,
+      "campeonatos": 0,
+      "image": "https://cdn-8.motorsport.com/images/mgl/6l9g48x0/s200/yuki-tsunoda-alphatauri-1.webp"
+    },
+    {
+      "id": 18,
+      "nombre": "Logan Sargeant",
+      "equipo": "Williams",
+      "nacionalidad": "Estados Unidos",
+      "numero": 2,
+      "campeonatos": 0,
+      "image": "https://cdn-2.motorsport.com/images/mgl/68yNXxX0/s200/logan-sargeant-williams-1.webp"
+    },
+    {
+      "id": 19,
+      "nombre": "Alexander Albon",
+      "equipo": "Williams",
+      "nacionalidad": "Tailandia",
+      "numero": 48,
+      "campeonatos": 0,
+      "image": "https://cdn-5.motorsport.com/images/mgl/YBeANkW2/s200/alex-albon-williams-1.webp"
+    },
+    {
+      "id": 20,
+      "nombre": "Oscar Piastri",
+      "equipo": "McLaren",
+      "nacionalidad": "Australiano",
+      "numero": 47,
+      "campeonatos": 0,
+      "image": "https://cdn-7.motorsport.com/images/mgl/6n9Ba7XY/s200/oscar-piastri-mclaren-1.webp"
+    }
+  ]

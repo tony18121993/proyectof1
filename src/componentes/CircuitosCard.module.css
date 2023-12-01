@@ -1,0 +1,21 @@
+.cardprincipal {
+    background-color: #d9534f;
+    border: 1px solid black;
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    width: 1000px;
+    border-radius: 5%;
+    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+    align-items: center;
+  }
+  button{
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 15%;
+  }
+  
+ 

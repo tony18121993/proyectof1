@@ -1,0 +1,16 @@
+.container{
+    width: 100%;
+    height: 50%;
+    margin-top: 20px ;
+    margin-botton:20px;
+    background-color: white;
+}
+.letra{
+    color: blue;
+}
+.imagen{
+    width:70%;
+    height:100%;
+    object-fit: cover;
+}
+    

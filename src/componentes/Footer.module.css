@@ -1,0 +1,10 @@
+.footer{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    color: blue;
+    font-size: 24px;
+}
